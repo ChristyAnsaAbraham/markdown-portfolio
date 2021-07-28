@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+**My favourite Series**
+        
+          1. Friends
+          2. Stranger Things
+          3. Game of thrones
+       
